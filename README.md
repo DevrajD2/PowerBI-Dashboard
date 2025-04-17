@@ -2,6 +2,8 @@
 
 This repository contains a dynamic and interactive dashboard visualizing **Amazon Sales Data for the year 2025**. Built using Power BI, the dashboard offers insightful visualizations that help analyze sales performance, product trends, and customer behavior.
 
+![Screenshot 2025-04-14 140746](https://github.com/user-attachments/assets/55c48faa-2257-4358-aa2c-b39dcd1b2d1e)
+
 ## 📌 Features & Insights
 
 - 💰 **Total Sales:** $243.85K  
